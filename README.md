@@ -1,2 +1,2 @@
-# -js-developer-pokedex
+# js-developer-pokedex
 Trilha JS Developer - Pokedex
