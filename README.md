@@ -1,1 +1,1 @@
-# Trilha JS Developer - Pokedex
+Pokedex consumindo api com js 
